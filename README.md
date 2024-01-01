@@ -1,13 +1,22 @@
-About exprtk
-============
+About exprtk-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/exprtk-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.partow.net/programming/exprtk/index.html
 
 Package license: MIT
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/exprtk-feedstock/blob/main/LICENSE.txt)
-
 Summary: C++ Mathematical Expression Parsing And Evaluation Library
+
+Documentation: https://www.partow.net/programming/exprtk/readme.html
+
+The C++ Mathematical Expression Toolkit Library (ExprTk) is a
+versatile, simple to use, easy to integrate and extremely efficient
+runtime mathematical expression parser and evaluation engine. ExprTk
+supports numerous forms of functional, logical and vector processing
+semantics and is very easily extendible.
+
 
 Current build status
 ====================
@@ -135,7 +144,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
