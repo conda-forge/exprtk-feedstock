@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/ArashPartow/exprtk/archive/refs/tags/0.0.3.tar.gz
-  sha256: 6c412af7862acdfea74c092e71d33cfc32e8aa361fe535affc86665bf21acef6
+  sha256: f9dec6975e86c702033d6a65ba9a0368eba31a61b89d74f2b5d24457c02c8439
 
 build:
   number: 1
@@ -35,7 +35,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - ArashPartow
     - wolfv
     - marimeireles
     - SylvainCorlay
-    - ArashPartow
