@@ -197,6 +197,3 @@ Feedstock Maintainers
 * [@marimeireles](https://github.com/marimeireles/)
 * [@wolfv](https://github.com/wolfv/)
 
-
-<!-- dummy commit to enable rerendering -->
-
